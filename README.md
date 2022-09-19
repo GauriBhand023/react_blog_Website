@@ -10,6 +10,6 @@
 
 #### If you like project then feel free to give Star 😅
 
-###Kindly find my hosted website on
+##Kindly find my hosted website on
 https://react-blog-website-gray.vercel.app/
 
